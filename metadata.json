@@ -1,0 +1,6 @@
+{
+  "name": "Golden Medical Store - POS & Medical Inventory System",
+  "description": "High-performance pharmacy POS billing, batch-wise medicine inventory, expiry alerts, supplier purchases, customer dues, and GST invoicing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
